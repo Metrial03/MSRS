@@ -1,0 +1,12 @@
+{
+    "example": {
+        "password": "example123",
+        "rated_movies": []
+    },
+    "erayyy": {
+        "password": "erayyy123",
+        "rated_movies": [
+            "the_shawshank_redemption_1994"
+        ]
+    }
+}
